@@ -1,11 +1,11 @@
 //=============『 Utama 』================== //
-global.owner = ['212774592783'] 
+global.owner = ['212661809542'] 
 global.mods = [] 
 global.prems = [] 
 
 //=============『 Info Owner 』============== //
 global.nameowner = 'ɴᴏᴜʀᴇᴅᴅɪɴᴇ ᴏᴜᴀꜰʏ⁩⁩'
-global.numberowner = '212774592783'
+global.numberowner = '212661809542'
 global.instagram = 'https://www.instagram.com/noureddine_ouafy'
 global.github = 'https://instagram.com/noureddine_ouafy'
 global.dana = ''
